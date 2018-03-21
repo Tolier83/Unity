@@ -3,7 +3,7 @@
 
 `Tu peux télécharger l'asset git en cliquant en dessous`:
 
-[Download l'asset ici](https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
+[Download l'asset ici](/Tolier83/Unity/raw/master/git-unity.unitypackage)
 
 > Ou
 
