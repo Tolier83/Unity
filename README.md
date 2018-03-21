@@ -1,10 +1,10 @@
 # Unity
 ### Projet Unity 42TheGame
 
-> Tu peux telecharger l'asset git en `cliquant ici`:
+`Tu peux télécharger l'asset git en cliquant en dessous`:
 
-[Download l'asset ici](/https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
+[Download l'asset ici](https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
 
-Ou
+> Ou
 
-[Download le zip de l'asset ici](/https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
+[Download le zip de l'asset ici](https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
