@@ -3,8 +3,8 @@
 
 `Tu peux télécharger l'asset git en cliquant en dessous`:
 
-[Download l'asset ici](https://github.com/Tolier83/Unity/raw/master/git-unity.rar)
+[Download l'asset ici](https://github.com/Tolier83/Unity/raw/master/git-unity.unitypackage)
 
 > Ou
 
-[Download le zip de l'asset ici](https://github.com/Tolier83/Unity/blob/master/git-unity.unitypackage)
+[Download le zip de l'asset ici](https://github.com/Tolier83/Unity/raw/master/git-unity.rar)
